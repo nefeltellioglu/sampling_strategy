@@ -16,8 +16,8 @@ source("SimulatorFunctions.R")
 #IMPORTANT
 ##############################
 #please reach the authors about the age-hh dist data (ABC_household_minimal.csv)
-#the data is not provided here due to data privicy.
-#you won't be able to run the simulator without the data
+#the data is not provided here due to data privacy.
+#you won't be able to run the simulator without the data.
 ##############################
 
 #READ DATA
