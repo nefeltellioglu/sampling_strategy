@@ -16,9 +16,10 @@ library(ggplot2)
 ##############################
 #IMPORTANT
 ##############################
-#please reach the authors about the age-hh dist data (ABC_household_minimal.csv)
-#the data is not provided here due to data privacy.
-#you won't be able to run all the analysis without the data.
+#You are expected to download the household-age-structure data from https://peerj.com/articles/3958/. 
+#The data is provided in the supplementary materials as "Raw data for household structure".
+#After downloading the data, you must name the csv file as "ABC_household_minimal.csv".
+#Otherwise, you will not be able to run all the analysis.
 ##############################
 
 
