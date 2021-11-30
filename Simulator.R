@@ -17,7 +17,7 @@ source("SimulatorFunctions.R")
 ##############################
 #You are expected to download the household-age-structure data from https://peerj.com/articles/3958/. 
 #The data is provided in the supplementary materials as "Raw data for household structure".
-#After downloading the data, you must name the csv file as "ABC_household_minimal.csv".
+#After downloading the data, you must name the csv file as "ABC_household_minimal.csv" and add the file to Data folder.
 #Otherwise, you will not be able to run all the analysis.
 ##############################
 
